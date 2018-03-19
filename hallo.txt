@@ -1,2 +1,6 @@
 Mein Name ist Broly!!
+<<<<<<< HEAD
 Meiner Flo!!Meiner Rafi
+=======
+Meiner Flo
+>>>>>>> 21d893ab41da5ccf63b162bb75848b4b7a2fe135
